@@ -1,1 +1,4 @@
-Undergraduate in Business Informatics. Through my courses and independent studies, I have developed a strong interest in financial technology and cybersecurity, particularly at the intersection of payments, risk and investment management. I aim to contribute to the development of innovative solutions that enhance efficiency and security in these areas.
+💻 Undergraduate Business Informatics student from Germany.
+🤖 Interested in AI applications, web applications, and fintech.
+💡 Lean startup mindset — learning fast, failing smarter, shipping often.
+
